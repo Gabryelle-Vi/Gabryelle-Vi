@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Gabryelle
-- 👀 I estou cursando Analise e desenvolvimento de sistemas
-- 🌱 I’m currently learning  Front-end
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Gabryelle 
+- 🌱  Tenho 18 anos
+- 💞️ Estou cursando Análise e desenvolvimento de sistemas
 
 <!---
 Gabryelle-Vi/Gabryelle-Vi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile
