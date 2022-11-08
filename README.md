@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gabryelle 
+- 👋 Oi, eu sou a Gabryelle
 - 🌱  Tenho 18 anos
 - 💞️ Estou cursando Análise e desenvolvimento de sistemas
 
