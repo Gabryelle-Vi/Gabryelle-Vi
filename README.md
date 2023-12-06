@@ -1,6 +1,7 @@
-- 👋 Oi, eu sou a Gabryelle
+## Oi, eu sou a Gabryelle Vitória!
 - 🌱  Tenho 20 anos
-- 💞️ Estou cursando Análise e desenvolvimento de sistemas
+- 💻Estou cursando Análise e desenvolvimento de sistemas
+   
 
 <!---
 Gabryelle-Vi/Gabryelle-Vi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile
