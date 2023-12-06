@@ -1,5 +1,5 @@
 - 👋 Oi, eu sou a Gabryelle
-- 🌱  Tenho 18 anos
+- 🌱  Tenho 20 anos
 - 💞️ Estou cursando Análise e desenvolvimento de sistemas
 
 <!---
