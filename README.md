@@ -1,6 +1,6 @@
 ## Oi, eu sou a Gabryelle Vitória!
-- 🌱  Tenho 20 anos
-- 💻Estou cursando Análise e desenvolvimento de sistemas
+- 🌱  Tenho 21 anos
+- 💻Estou fazendo um curso técnico de informática
    
 
 <!---
